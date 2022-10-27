@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "C-Programming",
+        "img": "/course_images/c.jpg",
+        "details": ""
+    },
+    {
+        "id": 2,
+        "category_id": 2,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "C++",
+        "img": "/course_images/c++.png",
+        "details": ""
+    },
+    {
+        "id": 3,
+        "category_id": 3,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "JavaScript",
+        "img": "/course_images/js.png",
+        "details": ""
+    },
+    {
+        "id": 4,
+        "category_id": 4,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Python",
+        "img": "/course_images/python.png",
+        "details": ""
+    },
+    {
+        "id": 5,
+        "category_id": 5,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Java",
+        "img": "/course_images/java.jpg",
+        "details": ""
+    },
+    {
+        "id": 6,
+        "category_id": 6,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Php",
+        "img": "/course_images/php.png",
+        "details": ""
+    }
+]
