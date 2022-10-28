@@ -2,67 +2,55 @@
     {
         "id": 1,
         "category_id": 1,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
         "title": "C-Programming",
-        "img": "/course_images/c.jpg",
-        "details": ""
+        "rating": "4.5",
+        "img": "https://i.ibb.co/LdDFrgX/c.jpg",
+        "details": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Our C tutorials will guide you to learn C programming one step at a time. C helps you to understand the internal architecture of a computer, how computer stores and retrieves information.After learning C, it will be much easier to learn other programming languages like Java, Python, etc.Opportunity to work on open source projects. Some of the largest open-source projects such as Linux kernel, Python interpreter, SQLite database, etc. are written in C programming.",
+        "header_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5neY90iH-yu2QM081HSrPvNYn_uZ83m8RSqtgQ5sOpeBqzvXS6rwNwW6P7uljroyOWEo&usqp=CAU"
     },
     {
         "id": 2,
         "category_id": 2,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
+        "rating": "4.0",
         "title": "C++",
-        "img": "/course_images/c++.png",
-        "details": ""
+        "img": "https://i.ibb.co/8MPB2jv/c.png",
+        "details": "C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented paradigm. It is an imperative and a compiled language. C++ is a middle-level language rendering it the advantage of programming low-level (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.). The basic syntax and code structure of both C and C++ are the same. C++ is the language around which all modern programming languages revolve and it allows you to learn programming from the ground level. This C++ Programming Foundation – Self Paced Course learn C++ from the basics even if you have no experience in programming, designed for absolute beginners who want to build their programming foundation through C++. Learn C++ basics, Operators, Variables and Data Types etc. Start your C++ journey today! It is the Standard Template Library (STL) that gives C++ its power and it helps in storing and manipulating objects, making the program reusable and robust. This C++ STL Course covers the basic to advanced concepts of C++ STL containers, iterators, OOPs etc along with video explanations of a few problems. So, the wait is finally over. Join the course and take your programming skills to the next level.",
+        "header_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190430122723/cpp-program-compilation3-1024x375.png"
     },
     {
         "id": 3,
         "category_id": 3,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
+        "rating": "5.0",
         "title": "JavaScript",
-        "img": "/course_images/js.png",
-        "details": ""
+        "img": "https://i.ibb.co/W5Gw4ms/js.png",
+        "details": "JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not Interpreted Java. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so). JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for ... in), and source code recovery (JavaScript programs can decompile function bodies back into their source text).",
+        "header_img": "https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/02/JavaScript-Tutorial.jpg"
     },
     {
         "id": 4,
         "category_id": 4,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
+        "rating": "3.5",
         "title": "Python",
-        "img": "/course_images/python.png",
-        "details": ""
+        "img": "https://i.ibb.co/x5QgzM8/python.png",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. ",
+        "header_img": "https://miro.medium.com/max/640/1*AES4U8ZRbAMMF6F_TuhRUw.png"
     },
     {
         "id": 5,
         "category_id": 5,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
+        "rating": "4",
         "title": "Java",
-        "img": "/course_images/java.jpg",
-        "details": ""
+        "img": "https://i.ibb.co/VWHsqw2/java.jpg",
+        "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it.",
+        "header_img": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/features-of-java.jpg"
     },
     {
         "id": 6,
         "category_id": 6,
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
+        "rating": "3.0",
         "title": "Php",
-        "img": "/course_images/php.png",
-        "details": ""
+        "img": "https://i.ibb.co/V9hZ7cG/php.png",
+        "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server. What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve. The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours.",
+        "header_img": "https://ionwebs.com/wp-content/uploads/2019/04/php_services_1.png"
     }
 ]
